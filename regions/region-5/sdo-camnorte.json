@@ -1,0 +1,22 @@
+{
+  "division": {
+    "id": "sdo-camarines-norte",
+    "name": "Camarines Norte"
+  },
+  "districts": [
+    { "id": "basud", "name": "Basud" },
+    { "id": "capalonga", "name": "Capalonga" },
+    { "id": "daet-north", "name": "Daet North" },
+    { "id": "daet-south", "name": "Daet South" },
+    { "id": "jose-panganiban", "name": "Jose Panganiban" },
+    { "id": "labo-east", "name": "Labo East" },
+    { "id": "labo-west", "name": "Labo West" },
+    { "id": "mercedes", "name": "Mercedes" },
+    { "id": "paracale", "name": "Paracale" },
+    { "id": "san-lorenzo-ruiz", "name": "San Lorenzo Ruiz" },
+    { "id": "san-vicente", "name": "San Vicente" },
+    { "id": "santa-elena", "name": "Santa Elena" },
+    { "id": "talisay", "name": "Talisay" },
+    { "id": "vinzons", "name": "Vinzons" }
+  ]
+}

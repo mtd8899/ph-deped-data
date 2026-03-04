@@ -1,0 +1,23 @@
+{
+  "schema": "ph-deped/v1",
+  "country": "PH",
+  "updatedAt": "2026-03-04",
+  "regions": [
+    { "id": "ncr", "name": "NCR", "dataUrl": "regions/ncr.json" },
+    { "id": "region-1", "name": "Region I (Ilocos)", "dataUrl": "regions/region-1.json" },
+    { "id": "region-2", "name": "Region II (Cagayan Valley)", "dataUrl": "regions/region-2.json" },
+    { "id": "region-3", "name": "Region III (Central Luzon)", "dataUrl": "regions/region-3.json" },
+    { "id": "region-4a", "name": "Region IV-A (CALABARZON)", "dataUrl": "regions/region-4a.json" },
+    { "id": "region-4b", "name": "Region IV-B (MIMAROPA)", "dataUrl": "regions/region-4b.json" },
+    { "id": "region-5", "name": "Region V (Bicol)", "dataUrl": "regions/region-5.json" },
+    { "id": "region-6", "name": "Region VI (Western Visayas)", "dataUrl": "regions/region-6.json" },
+    { "id": "region-7", "name": "Region VII (Central Visayas)", "dataUrl": "regions/region-7.json" },
+    { "id": "region-8", "name": "Region VIII (Eastern Visayas)", "dataUrl": "regions/region-8.json" },
+    { "id": "region-9", "name": "Region IX (Zamboanga Peninsula)", "dataUrl": "regions/region-9.json" },
+    { "id": "region-10", "name": "Region X (Northern Mindanao)", "dataUrl": "regions/region-10.json" },
+    { "id": "region-11", "name": "Region XI (Davao)", "dataUrl": "regions/region-11.json" },
+    { "id": "region-12", "name": "Region XII (SOCCSKSARGEN)", "dataUrl": "regions/region-12.json" },
+    { "id": "region-13", "name": "Region XIII (Caraga)", "dataUrl": "regions/region-13.json" },
+    { "id": "barmm", "name": "BARMM", "dataUrl": "regions/barmm.json" }
+  ]
+}

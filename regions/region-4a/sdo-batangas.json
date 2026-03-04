@@ -1,0 +1,97 @@
+{
+  "schema": "ph-deped/v1",
+  "region": {
+    "id": "region-4a",
+    "name": "Region IV-A (CALABARZON)"
+  },
+  "updatedAt": "2026-03-04",
+  "source": {
+    "type": "web",
+    "note": "Division list aligns with DepEd Regional & Division Offices Directory; district lists may come from division pages/memos.",
+    "references": [
+      "https://www.deped.gov.ph/contact-us/regional-division-offices-directory/"
+    ]
+  },
+  "divisions": [
+    {
+      "id": "sdo-batangas-province",
+      "name": "Batangas Province",
+      "province": "Batangas",
+      "type": "province-division",
+      "districts": [
+        { "id": "agoncillo", "name": "Agoncillo" },
+        { "id": "alitagtal", "name": "Alitagtag" },
+        { "id": "balayan-east", "name": "Balayan East" },
+        { "id": "balayan-west", "name": "Balayan West" },
+        { "id": "balete", "name": "Balete" },
+        { "id": "bauan-east", "name": "Bauan East" },
+        { "id": "bauan-west", "name": "Bauan West" },
+        { "id": "calaca", "name": "Calaca" },
+        { "id": "calatagan", "name": "Calatagan" },
+        { "id": "cuenca", "name": "Cuenca" },
+        { "id": "ibaan", "name": "Ibaan" },
+        { "id": "laurel", "name": "Laurel" },
+        { "id": "lemery", "name": "Lemery" },
+        { "id": "lian", "name": "Lian" },
+        { "id": "mabini", "name": "Mabini" },
+        { "id": "malvar", "name": "Malvar" },
+        { "id": "mataasnakahoy", "name": "Mataasnakahoy" },
+        { "id": "nasugbu-east", "name": "Nasugbu East" },
+        { "id": "nasugbu-west", "name": "Nasugbu West" },
+        { "id": "padre-garcia", "name": "Padre Garcia" },
+        { "id": "rosario-east", "name": "Rosario East" },
+        { "id": "rosario-west", "name": "Rosario West" },
+        { "id": "san-jose", "name": "San Jose" },
+        { "id": "san-juan-east", "name": "San Juan East" },
+        { "id": "san-juan-west", "name": "San Juan West" },
+        { "id": "san-luis", "name": "San Luis" },
+        { "id": "san-nicolas", "name": "San Nicolas" },
+        { "id": "san-pascual", "name": "San Pascual" },
+        { "id": "santa-teresita", "name": "Santa Teresita" },
+        { "id": "sto-tomas-north", "name": "Sto. Tomas North" },
+        { "id": "sto-tomas-south", "name": "Sto. Tomas South" },
+        { "id": "taal", "name": "Taal" },
+        { "id": "talisay", "name": "Talisay" },
+        { "id": "tingloy", "name": "Tingloy" },
+        { "id": "tuy", "name": "Tuy" },
+        { "id": "taysan", "name": "Taysan" }
+      ]
+    },
+    {
+      "id": "sdo-batangas-city",
+      "name": "Batangas City",
+      "province": "Batangas",
+      "type": "city-division",
+      "districts": [
+        { "id": "batangas-city-east", "name": "Batangas City East" },
+        { "id": "batangas-city-west", "name": "Batangas City West" },
+        { "id": "batangas-city-north", "name": "Batangas City North" },
+        { "id": "batangas-city-south", "name": "Batangas City South" }
+      ]
+    },
+    {
+      "id": "sdo-lipa-city",
+      "name": "Lipa City",
+      "province": "Batangas",
+      "type": "city-division",
+      "districts": [
+        { "id": "lipa-city-east", "name": "Lipa City East" },
+        { "id": "lipa-city-west", "name": "Lipa City West" },
+        { "id": "lipa-city-north", "name": "Lipa City North" },
+        { "id": "lipa-city-south", "name": "Lipa City South" }
+      ]
+    },
+    {
+      "id": "sdo-tanauan-city",
+      "name": "Tanauan City",
+      "province": "Batangas",
+      "type": "city-division",
+      "districts": [
+        { "id": "tanauan-city-east", "name": "Tanauan City East" },
+        { "id": "tanauan-city-west", "name": "Tanauan City West" },
+        { "id": "tanauan-city-north", "name": "Tanauan City North" },
+        { "id": "tanauan-city-south", "name": "Tanauan City South" }
+      ]
+    }
+  ]
+}

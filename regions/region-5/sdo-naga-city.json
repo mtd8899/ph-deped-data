@@ -1,0 +1,12 @@
+{
+  "division": {
+    "id": "sdo-naga-city",
+    "name": "Naga City"
+  },
+  "districts": [
+    { "id": "naga-north", "name": "Naga North" },
+    { "id": "naga-south", "name": "Naga South" },
+    { "id": "naga-east", "name": "Naga East" },
+    { "id": "naga-west", "name": "Naga West" }
+  ]
+}
